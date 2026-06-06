@@ -33,4 +33,6 @@ captures/
 CLAUDE.md
 
 # Environment-specific
-gradle.properties
+# Note: root gradle.properties is committed (CI needs it); exclude user overrides
+local.properties
+user-gradle.properties
