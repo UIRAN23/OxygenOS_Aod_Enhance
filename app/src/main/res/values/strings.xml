@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OxygenOS AOD Enhance</string>
+    <string name="xposed_description">AOD весь день + блокировка касания AOD для OxygenOS 16</string>
+</resources>
